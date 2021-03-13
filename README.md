@@ -1,6 +1,6 @@
 # Simple todo application with ReactJs + Material UI + Firebase (Cloud Firestore Database + Hosting)
 
-## If you want to run application on your local machine after clone application, Follow the below instructions.
+## If you want to run application on your local machine after clone application, Fallow the below instructions.
 
 1. Create firebase account and get configurations. Please update firebase.js file with your configurations.
 2. npm start
